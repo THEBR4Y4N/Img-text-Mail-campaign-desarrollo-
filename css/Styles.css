@@ -1,0 +1,33 @@
+/* fuentes */
+@font-face {
+  font-family: LouisBoldItalic;
+  font-style: normal;
+  font-weight: normal;
+  src: url(../Fonts/LouisBoldItalic.otf);
+}
+
+@font-face {
+  font-family: Arial Italic;
+  font-style: normal;
+  font-weight: normal;
+  src: url(../Fonts/ArialItalic.ttf);
+}
+
+@font-face {
+  font-family: Arial;
+  font-style: normal;
+  font-weight: normal;
+  src: url(../Fonts/Arial.ttf);
+}
+
+/* personalización */
+.textos {
+  font-family: Arial;
+  font-size: 20px;
+}
+
+td hr {
+  width: 60%;
+  height: 1px;
+  background-color: #5a5954;
+}
